@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>VOCType</folder>
+	<source>
+		<database>VOC</database>
+	</source>
+	<size>
+		<width>10</width>
+		<height>10</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Uspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox/>
+	</object>
+	<object>
+		<name>face2</name>
+		<pose>Uspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox/>
+	</object>
+</annotation>
